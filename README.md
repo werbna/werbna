@@ -29,7 +29,7 @@
 
 ### What I’m Working On
 - 🔍 **Mastering Data Structures & Algorithms**: Building a strong foundation for efficient problem-solving.
-- ⚛️ **Diving into Modern Frameworks**: Currently learning **React**, **Redux**, **Next.js**, **Angular**, and **TypeScript** to expand my front-end skills.
+- ⚛️ **Diving into Modern Frameworks**: Currently learning **React**, **Redux**, **Next.js**, **Angular**, and **TypeScript** to expand my skillset.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
