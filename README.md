@@ -27,15 +27,6 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### What I’m Working On
-- 🔍 **Mastering Data Structures & Algorithms**: Building a strong foundation for efficient problem-solving.
-- ⚛️ **Diving into Modern Frameworks**: Currently learning **React**, **Redux**, **Next.js**, **Angular**, and **TypeScript** to expand my skillset.
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- 🛠️ **Projects with Purpose**: Building tools and projects that solve real-world problems—especially ones that bring together my passion for food and tech.
-
 ### Connect with Me
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/andrew-t-chau/
 - 📬 **Email**: andrewchau1993@gmail.com
